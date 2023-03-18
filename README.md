@@ -20,6 +20,7 @@ Make sure that Git and Github cli is installed and that you have authenticated G
 
 ## Installation:
 
+    PS C:\Users\User>gh repo clone https://github.com/PATH-TO/REPOSITORY
     PS C:\Users\User>. .\github_automation.ps1
 
 If the installation is not working visit:
